@@ -1,0 +1,11 @@
+joblib
+pretty_midi
+keras
+
+
+
+################################################################
+# TensorFlow can be installed either as CPU or GPU versions.
+
+tensorflow		# CPU Version of TensorFlow.
+# tensorflow-gpu	# GPU version of TensorFlow.
