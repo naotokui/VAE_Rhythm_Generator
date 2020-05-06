@@ -1,0 +1,13 @@
+0, bass_drum 36;
+1, snare_drum 38;
+2, low_tom 41;
+3, mid_tom 45;
+4, high_tom 48;
+5, rim_shot 37;
+6, hand_clap 39;
+7, closed_hihat 42;
+8, open_hihat 46;
+9, crash_cymbal 49;
+10, ride_cymbal 51;
+11, cow bell 56;
+12, tambourine 54;
